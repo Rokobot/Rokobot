@@ -5,6 +5,7 @@
 
 <div align="center">
 
+![Cool GIF](https://github.com/Rokobot/readme_github/blob/main/assets/gif/mygif.gif?raw=true)
 
 
 <!-- Waving Header Banner -->
