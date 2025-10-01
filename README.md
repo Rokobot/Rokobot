@@ -5,8 +5,6 @@
 
 <div align="center">
 
-![Cool GIF](https://github.com/Rokobot/readme_github/blob/main/assets/gif/mygif.gif?raw=true)
-
 
 <!-- Waving Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:8B5CF6,100:F97316&height=150&section=header&text=Ali%20Hasanov&fontSize=60&animation=wave&animationSpeed=2"/>
