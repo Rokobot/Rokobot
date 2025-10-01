@@ -5,7 +5,6 @@
 
 <div align="center">
 
-![Eyes Live Wallpaper](https://www.peakpx.com/en/hd-wallpaper-desktop-ggsna)
 
 
 <!-- Waving Header Banner -->
