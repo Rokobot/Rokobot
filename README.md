@@ -77,20 +77,11 @@
 ## 🏆 GitHub Achievements  
 
 <img src="https://github-profile-trophy.vercel.app/?username=Rokobot&theme=radical&no-frame=true&margin-w=10&row=2&column=3" />
-
-</div>
-
----
-
-<div align="center">
-
 <p>
   <a href="https://github.com/ALX-13/El-Molino"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300"/></a>
 </p>
 
 </div>
-
----
 
 <div align="center">
 
