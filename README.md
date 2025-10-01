@@ -74,6 +74,15 @@
 
 <div align="center">
 
+## 🏆 GitHub Achievements  
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rokobot&theme=radical&no-frame=true&margin-w=10&row=2&column=3" />
+
+</div>
+
+---
+
+<div align="center">
 
 <p>
   <a href="https://github.com/ALX-13/El-Molino"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300"/></a>
@@ -87,7 +96,7 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rokobot&show_icons=true&theme=radical&count_private=true)  
 
 </div>
 
@@ -97,9 +106,9 @@
 
 ## 🎖️ Dynamic Badges  
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)  
-![Followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=flat-square)  
-![Stars](https://img.shields.io/github/stars/yourusername?label=Stars&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Rokobot&color=blue&style=flat-square)  
+![Followers](https://img.shields.io/github/followers/Rokobot?label=Followers&style=flat-square)  
+![Stars](https://img.shields.io/github/stars/Rokobot?label=Stars&style=flat-square)
 
 </div>
 
