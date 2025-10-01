@@ -104,10 +104,11 @@
 
 ---
 
-![Cool GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamluNTB4d3l3OG9kaDN0NGp3enNuaGt4YTkyczc4Z3dwcmE2MWM4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcoTKhfDvStjxMA/giphy.gif?raw=true)
 
 
 <div align="center">
+![Cool GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamluNTB4d3l3OG9kaDN0NGp3enNuaGt4YTkyczc4Z3dwcmE2MWM4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcoTKhfDvStjxMA/giphy.gif?raw=true)
+
 
 <!-- Premium Waving Footer Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:8B5CF6,100:F97316&height=150&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=40&animation=wave&animationSpeed=2"/>
