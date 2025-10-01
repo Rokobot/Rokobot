@@ -5,7 +5,6 @@
 
 <div align="center">
 
-![Alt text](https://github.com/yourusername/yourrepository/blob/main/path/to/yourfile.gif?raw=true)
 
 
 <!-- Waving Header Banner -->
