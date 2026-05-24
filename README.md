@@ -12,7 +12,7 @@
 # 👨‍💻 Hi, I'm Ali Hasanov  
 ### 🚀 Flutter Developer | Mobile & Web Enthusiast  
 
-[Visit My Portfolio](https://portfolio-e910f.web.app/)  
+[Visit My Portfolio](https://sinuspro.tech/en)  
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=800&color=FF5C93&center=true&vCenter=true&width=600&lines=I+build+beautiful+Flutter+apps;I+write+clean+code;Exploring+AI+%26+Space+Tech" alt="Typing Animation" />
